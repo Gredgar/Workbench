@@ -1,0 +1,34 @@
+<tip>
+<body> 
+<cross.gloss_Doc> .orutp Tl "1,":> = , di <http://crosby.proxy.doc>
+
+<path/ +1> 
+<catch_diaogl-OPGL>patch
+
+<locate_DOSM-DOSCM>.patch/
+.locate/patch_update
+<text> = "Update" </text>
+<doc_LETsit><relaydelay_:> <0.0></COD>
+<dic_DOC ROM="E?"></dic>
+<lit><TEXT_DIALOG=delay_timeout : .lloca_timeout-delday , .</hhrefMXL-.href> ; -p , text=<body="TenBear's"></body> ; -o>/>
+<CBXM><OP><T>
+<dialog>
+<pip-int_loc><DOC_RMC</hint>
+      Criteria:loc_DOC<R -h : ";"> <reference>
+       :critical_analysis-doc_hold<HTML<html-http::///>
+       ::operation_pull -p
+       preferences::codex_Poll<toll_Poll= .inte ; . "pull"/> 
+       ::loc_D ; "," <ping .lead -o ;o> //
+  .ping _tip     <href-d .dialog_ .ping>
+
+<\lit>
+<\CBXM>
+<\OP>
+<\T>
+
+
+
+
+
+
+</body></text>
